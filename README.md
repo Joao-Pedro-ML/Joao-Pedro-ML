@@ -5,7 +5,7 @@
 
 -💻 Atualmente faço parte da [Therion Empresa Júnior](https://therionej.com.br/), sendo vice-presidente e diretor de gestão de pessoas.
 
--💬 Entre em contato através do [e-mail](joao.pedroml@hotmail.com).
+-💬 Entre em contato através do e-mail: joao.pedroml@hotmail.com.
 
 -🔭 Conheça mais sobre mim no [LinkedIn]([linked.in/JoãoPedroMoretoLourenção](https://www.linkedin.com/in/joao-pedro-moreto-louren%C3%A7%C3%A3o)).
 <!--
