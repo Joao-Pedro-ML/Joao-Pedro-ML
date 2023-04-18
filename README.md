@@ -1,5 +1,6 @@
-### Olá, seja bem-vindo(a) ao meu perfil no Github 👋
+### Hello, Welcome to my profile on Github 👋
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=joao-pedro-ml&layout=compact&theme=radical&hide_progress=true)](https://github.com/Joao-Pedro-ML/github-readme-stats
 
 -👨‍🎓 Curso Engenharia de Computação na Universidade Tecnológica Federal do Paraná (UTFPR).
 
