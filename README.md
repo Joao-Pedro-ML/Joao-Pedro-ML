@@ -1,6 +1,8 @@
 ### Hello, Welcome to my profile on Github 👋
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=joao-pedro-ml&layout=compact&theme=radical&hide_progress=true)](https://github.com/Joao-Pedro-ML/github-readme-stats
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Joao-Pedro-ML&show_icons=true&theme=radical)
+[![TopLangs ](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-ML&layout=compact&theme=radical&hide_progress=true)](https://github.com/Joao-Pedro-ML/github-readme-stats)
+##
 
 -👨‍🎓 Curso Engenharia de Computação na Universidade Tecnológica Federal do Paraná (UTFPR).
 
