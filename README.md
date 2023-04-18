@@ -1,16 +1,16 @@
-### Hello, Welcome to my profile on Github 👋
+### Hello, Welcome to João's profile on Github 👋
 
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Joao-Pedro-ML&show_icons=true&theme=radical)
 [![TopLangs ](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-ML&layout=compact&theme=radical&hide_progress=true)](https://github.com/Joao-Pedro-ML/github-readme-stats)
 ##
 
--👨‍🎓 Curso Engenharia de Computação na Universidade Tecnológica Federal do Paraná (UTFPR).
+-👨‍🎓 Studiyng Computer Engineering at UTFPR
 
--💻 Atualmente faço parte da [Therion Empresa Júnior](https://therionej.com.br/), sendo vice-presidente e diretor de gestão de pessoas.
+-💻 Actually vice-president and people management director at Therion Junior Enterprise
 
--💬 Entre em contato através do e-mail: joao.pedroml@hotmail.com.
+-💬 Contact me via e-mail: joaopedrolourencao@gmail.com.
 
--🔭 Conheça mais sobre mim no [LinkedIn]([linked.in/JoãoPedroMoretoLourenção](https://www.linkedin.com/in/joao-pedro-moreto-louren%C3%A7%C3%A3o)).
+-🔭 Interested in working on projects that can help the world.
 <!--
 **Joao-Pedro-ML/Joao-Pedro-ML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,3 +25,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <a href="https://www.instagram.com/_jplourencao_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:joaopedrolourencao@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joao-pedro-moreto-louren%C3%A7%C3%A3o/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://therionej.com.br/" target="_blank"><img src="https://github.com/marianagoncalvesrodrigues/marianagoncalvesrodrigues/blob/main/therion22.png"
+height="26px" width="100px" target="_blank"></a>
+</div>
