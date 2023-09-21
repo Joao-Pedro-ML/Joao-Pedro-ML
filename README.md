@@ -8,7 +8,7 @@
 
 -💻 Actually COENC-AP intern 
 
--💬 Contact me via e-mail: joao.pedroml@hotmail.com.
+-💬 Contact me via e-mail: joaopedrolourencao@gmail.com.
 
 -🔭 Interested in working on projects that can help the world.
 <!--
@@ -29,6 +29,4 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/_jplourencao_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaopedrolourencao@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-pedro-moreto-louren%C3%A7%C3%A3o/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://therionej.com.br/" target="_blank"><img src="https://github.com/marianagoncalvesrodrigues/marianagoncalvesrodrigues/blob/main/therion22.png"
-height="26px" width="100px" target="_blank"></a>
 </div>
