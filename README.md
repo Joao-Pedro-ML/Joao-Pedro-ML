@@ -6,9 +6,9 @@
 
 -👨‍🎓 Studiyng Computer Engineering at UTFPR
 
--💻 Actually vice-president and people management director at Therion Junior Enterprise
+-💻 Actually COENC-AP intern 
 
--💬 Contact me via e-mail: joaopedrolourencao@gmail.com.
+-💬 Contact me via e-mail: joao.pedroml@hotmail.com.
 
 -🔭 Interested in working on projects that can help the world.
 <!--
