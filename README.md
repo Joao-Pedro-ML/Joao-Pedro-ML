@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 I´m currently a master's degree studant at CPGEI-CT<br>💻 Computer Engineer by UTFPR<br>💬 Contact me via e-mail: mailto:joaopedrolourencao@gmail.com<br>🔭 Interested in working on projects that can help the world<br>👨🏻 Personal page: https://joaopedroml.netlify.app
+👨‍🎓 I´m currently a master's degree studant at CPGEI-CT<br>💻 Computer Engineer by UTFPR<br>💬 Contact me via e-mail: <a href="mailto:joao.pedroml@hotmail.com"><a>joao.pedroml@hotmail.com<br>🔭 Interested in working on projects that can help the world<br>👨🏻 Personal page: https://joaopedroml.netlify.app
 
 
 ## 🌐 Socials:
